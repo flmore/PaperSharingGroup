@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>PaperSharingGroup</title>
-        <link>https://example.com/</link>
-        <description>Hugo theme - LoveIt</description>
+        <title>top journal - Tag - PaperSharingGroup</title>
+        <link>https://example.com/tags/top-journal/</link>
+        <description>top journal - Tag - PaperSharingGroup</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>flmore@qq.com (flmore)</managingEditor>
-            <webMaster>flmore@qq.com (flmore)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 13 Dec 2022 15:58:26 &#43;0800</lastBuildDate>
-            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>flmore@qq.com (flmore)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 13 Dec 2022 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://example.com/tags/top-journal/" rel="self" type="application/rss+xml" /><item>
     <title>Energy Environ. Sci.：CoPorX/CNT催化剂高效电化学合成H2O2</title>
     <link>https://example.com/demo-page/</link>
     <pubDate>Tue, 13 Dec 2022 15:58:26 &#43;0800</pubDate>
